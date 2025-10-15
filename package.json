@@ -19,11 +19,11 @@
     "react-router-dom": "^7.9.3",
     "react-scripts": "^5.0.1",
     "react-toastify": "^11.0.5",
+    "serve": "^14.2.5",
     "web-vitals": "^2.1.4",
     "yup": "^1.7.1"
   },
   "scripts": {
-    // "start": "react-scripts start",
     "start": "serve -s build",
     "build": "react-scripts build",
     "test": "react-scripts test",
